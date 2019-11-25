@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="1. Document Revision History" Link="/Content/CG IS Architecture Framework.htm#_Toc21527869" />
+    <TocEntry Title="2. Preface" Link="/Content/CG IS Architecture Framework.htm#_Toc21527870">
+        <TocEntry Title="2.1. Background" Link="/Content/CG IS Architecture Framework.htm#_Toc21527871" />
+        <TocEntry Title="2.2. Motivation for Architecture Framework" Link="/Content/CG IS Architecture Framework.htm#_Toc21527872">
+            <TocEntry Title="2.2.1. Advantages of Virtualization" Link="/Content/CG IS Architecture Framework.htm#_Toc21527873" />
+            <TocEntry Title="2.2.2. Advantages of Standardization" Link="/Content/CG IS Architecture Framework.htm#_Toc21527874" />
+        </TocEntry>
+        <TocEntry Title="2.3. Motivation for Modular Architecture" Link="/Content/CG IS Architecture Framework.htm#_Toc21527875" />
+        <TocEntry Title="2.4. Definition of Terms" Link="/Content/CG IS Architecture Framework.htm#_Toc21527876" />
+        <TocEntry Title="2.5. Predefined Infrastructure Solutions" Link="/Content/CG IS Architecture Framework.htm#_Toc21527877" />
+    </TocEntry>
+    <TocEntry Title="3. Document Layout and Methodology" Link="/Content/CG IS Architecture Framework.htm#_Toc21527878">
+        <TocEntry Title="3.1. Document Structure" Link="/Content/CG IS Architecture Framework.htm#_Toc21527879" />
+        <TocEntry Title="3.2. Methodology to Use the Document" Link="/Content/CG IS Architecture Framework.htm#_Toc21527880">
+            <TocEntry Title="3.2.1. Best Practice Solution" Link="/Content/CG IS Architecture Framework.htm#_Toc21527881" />
+            <TocEntry Title="3.2.2. Site-specific Solution" Link="/Content/CG IS Architecture Framework.htm#_Toc21527882" />
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="4. Definition of Protection Requirements for Applications" Link="/Content/CG IS Architecture Framework.htm#_Toc21527883">
+        <TocEntry Title="4.1. Application Criticality" Link="/Content/CG IS Architecture Framework.htm#_Toc21527884" />
+        <TocEntry Title="4.2. Data Availability" Link="/Content/CG IS Architecture Framework.htm#_Toc21527885" />
+        <TocEntry Title="4.3. Levels of Data Availability" Link="/Content/CG IS Architecture Framework.htm#_Toc21527886" />
+    </TocEntry>
+    <TocEntry Title="5. Technology Basics" Link="/Content/CG IS Architecture Framework.htm#_Toc21527887">
+        <TocEntry Title="5.1. Virtualization" Link="/Content/CG IS Architecture Framework.htm#_Toc21527888" />
+        <TocEntry Title="5.2. VM Failover and Synchronous VMs" Link="/Content/CG IS Architecture Framework.htm#_Toc21527889">
+            <TocEntry Title="5.2.1. Failover" Link="/Content/CG IS Architecture Framework.htm#_Toc21527890" />
+            <TocEntry Title="5.2.2. Synchronous VMs" Link="/Content/CG IS Architecture Framework.htm#_Toc21527891" />
+        </TocEntry>
+        <TocEntry Title="5.3. Storage" Link="/Content/CG IS Architecture Framework.htm#_Toc21527892">
+            <TocEntry Title="5.3.1. Storage Types" Link="/Content/CG IS Architecture Framework.htm#_Toc21527893" />
+            <TocEntry Title="5.3.2. Data Storage" Link="/Content/CG IS Architecture Framework.htm#_Toc21527894" />
+            <TocEntry Title="5.3.3. Virtualized Direct Attached Storage" Link="/Content/CG IS Architecture Framework.htm#_Toc21527895" />
+        </TocEntry>
+        <TocEntry Title="5.4. Backup and Restore" Link="/Content/CG IS Architecture Framework.htm#_Toc21527896">
+            <TocEntry Title="5.4.1. Mechanisms" Link="/Content/CG IS Architecture Framework.htm#_Toc21527897" />
+            <TocEntry Title="5.4.2. Backup Implementation" Link="/Content/CG IS Architecture Framework.htm#_Toc21527898" />
+        </TocEntry>
+        <TocEntry Title="5.5. Network" Link="/Content/CG IS Architecture Framework.htm#_Toc21527899" />
+        <TocEntry Title="5.6. Network Zoning" Link="/Content/CG IS Architecture Framework.htm#_Toc21527900">
+            <TocEntry Title="5.6.1. Virtual LANs" Link="/Content/CG IS Architecture Framework.htm#_Toc21527901" />
+            <TocEntry Title="5.6.2. Zones" Link="/Content/CG IS Architecture Framework.htm#_Toc21527902" />
+            <TocEntry Title="5.6.3. Private VLANs" Link="/Content/CG IS Architecture Framework.htm#_Toc21527903" />
+            <TocEntry Title="5.6.4. Security Zones inside CG IS Stacks" Link="/Content/CG IS Architecture Framework.htm#_Toc21527904" />
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="6. Cross-Reference" Link="/Content/CG IS Architecture Framework.htm#_Toc21527905" />
+    <TocEntry Title="7. Threat Scenarios" Link="/Content/CG IS Architecture Framework.htm#_Toc21527906">
+        <TocEntry Title="7.1. Facility" Link="/Content/CG IS Architecture Framework.htm#_Toc21527907" />
+        <TocEntry Title="7.2. Infrastructure" Link="/Content/CG IS Architecture Framework.htm#_Toc21527908" />
+        <TocEntry Title="7.3. Software" Link="/Content/CG IS Architecture Framework.htm#_Toc21527909" />
+        <TocEntry Title="7.4. Human Errors / Manipulation / Infection" Link="/Content/CG IS Architecture Framework.htm#_Toc21527910" />
+    </TocEntry>
+    <TocEntry Title="8. Measures" Link="/Content/CG IS Architecture Framework.htm#_Toc21527911">
+        <TocEntry Title="8.1. Infrastructure" Link="/Content/CG IS Architecture Framework.htm#_Toc21527912">
+            <TocEntry Title="8.1.1. General" Link="/Content/CG IS Architecture Framework.htm#_Toc21527913" />
+            <TocEntry Title="8.1.2. Network" Link="/Content/CG IS Architecture Framework.htm#_Toc21527914" />
+            <TocEntry Title="8.1.3. Compute" Link="/Content/CG IS Architecture Framework.htm#_Toc21527915" />
+            <TocEntry Title="8.1.4. Storage" Link="/Content/CG IS Architecture Framework.htm#_Toc21527916" />
+            <TocEntry Title="8.1.5. Backup and Restore" Link="/Content/CG IS Architecture Framework.htm#_Toc21527917" />
+            <TocEntry Title="8.1.6. Operational and Organizational" Link="/Content/CG IS Architecture Framework.htm#_Toc21527918" />
+        </TocEntry>
+        <TocEntry Title="8.2. Software" Link="/Content/CG IS Architecture Framework.htm#_Toc21527919">
+            <TocEntry Title="8.2.1. Mirroring" Link="/Content/CG IS Architecture Framework.htm#_Toc21527920" />
+            <TocEntry Title="8.2.2. Failover" Link="/Content/CG IS Architecture Framework.htm#_Toc21527921" />
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="9. Best Practice Solutions" Link="/Content/CG IS Architecture Framework.htm#_Toc21527922">
+        <TocEntry Title="9.1. Impact Categorization" Link="/Content/CG IS Architecture Framework.htm#_Toc21527923" />
+        <TocEntry Title="9.2. CG IS Architecture Framework Classes" Link="/Content/CG IS Architecture Framework.htm#_Toc21527924">
+            <TocEntry Title="9.2.1. Definition of Classes" Link="/Content/CG IS Architecture Framework.htm#_Toc21527925" />
+            <TocEntry Title="9.2.2. Storage Design within Classes" Link="/Content/CG IS Architecture Framework.htm#_Toc21527926" />
+            <TocEntry Title="9.2.3. Backup and data protection within Classes" Link="/Content/CG IS Architecture Framework.htm#_Toc21527927" />
+            <TocEntry Title="9.2.4. Shared Resources" Link="/Content/CG IS Architecture Framework.htm#_Toc21527928" />
+            <TocEntry Title="9.2.5. Compilation of Hardware Stacks" Link="/Content/CG IS Architecture Framework.htm#_Toc21527929" />
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="10. Residual Risks" Link="/Content/CG IS Architecture Framework.htm#_Toc21527930" />
+    <TocEntry Title="11. Contacts" Link="/Content/CG IS Architecture Framework.htm#_Toc21527931" />
+    <TocEntry Title="12. Document Lifecycle Management" Link="/Content/CG IS Architecture Framework.htm#_Toc21527932" />
+    <TocEntry Title="13. List of Abbreviations" Link="/Content/CG IS Architecture Framework.htm#_Toc21527933" />
+</CatapultToc>

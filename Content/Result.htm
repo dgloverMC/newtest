@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Result</h1>
+        <p>Delete this text and replace it with your own content.</p>
+        <MadCap:searchResultsProxy />
+        <script>
+			$(document).ready(function(){
+			$("#searchPane.mc-component").on("loaded", function () {
+			if ($("span.total-results").text() == "0") {
+			$(".zero-search-results").show();
+			$("h1#results-heading").hide();
+			console.log("hello");
+			}
+			else
+			{
+			$(".zero-search-results").hide();
+			console.log("goodbye");
+			}
+			});
+			});
+
+
+                        
+		</script>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Stylesheets/NewStylesheet.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <p>
+                <img src="../Images/ArchitectureFramework_GlossaryTermTesting/ArchitectureFramework_GlossaryTermTesting.png" class="img_42" />
+                <br />
+            </p>
+            <p>&#160;</p>
+            <p>&#160;</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p>CG IS Architecture Framework</p>
+            <p>Version 3.13 – 10-Oct-2019&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Page 51 of 51</p>
+        </div>
+		<script>
+			$(document).ready(function(){
+			$("#searchPane.mc-component").on("loaded", function () {
+			if ($("span.total-results").text() == "0") {
+			$(".zero-search-results").show();
+			$("h1#results-heading").hide();
+			console.log("hello");
+			}
+			else
+			{
+			$(".zero-search-results").hide();
+			console.log("goodbye");
+			}
+			});
+			});
+
+
+                        </script>
+    </body>
+</html>
